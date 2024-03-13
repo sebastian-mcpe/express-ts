@@ -134,3 +134,6 @@ bin/
 
 # build
 builds/
+
+# visual studio code
+.vscode
